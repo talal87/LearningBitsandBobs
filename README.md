@@ -5,8 +5,8 @@ This is where you will find all the reading materials such as tutorials and back
 
 #### Everyone who was assigned to do research and background information please send a pull request for each assignment to this repository ####
 
-If you need help with that follow these instructions: 
-Step 1. [FORKING](https://help.github.com/articles/fork-a-repo/)
+If you need help with that follow these instructions: <br>
+Step 1. [FORKING](https://help.github.com/articles/fork-a-repo/)<br>
 Step 2. [PULL REQUESTS](https://help.github.com/articles/using-pull-requests/)
 
 
